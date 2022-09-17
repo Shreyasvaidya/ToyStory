@@ -2,7 +2,7 @@
 
 Tells a story based on given combination of Indian Toys , in English or Hindi 
 
-Using openai's api for gpt-3
+Story generation Using openai's api for gpt-3
 
 Made for Hackathon during Youth conclave organised by INAE at IIT Jodhpur
 
